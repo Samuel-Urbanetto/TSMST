@@ -1,4 +1,1 @@
- Rambler's Delusional Diary
- or something idk name may change as i see fit
-
- (this is my blog)
+https://samuel-urbanetto.github.io/TSMST/HTML/Index.html
